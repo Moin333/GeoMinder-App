@@ -18,7 +18,6 @@ I am unable to display the notification UI due to issues related to the Google M
 - Navigation: Jetpack Navigation Compose
 - Geofencing API: Google Geofencing API
 - MVVM: The App follows the MVVM Architecture
-- 
 
 ## 📸 Screenshots
 
