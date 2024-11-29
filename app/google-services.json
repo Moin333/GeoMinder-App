@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174831081720",
+    "project_id": "geominder-app",
+    "storage_bucket": "geominder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174831081720:android:9498ad120959817127430d",
+        "android_client_info": {
+          "package_name": "com.example.geominderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVJ0ZprMLjdDIsX-A8-WoBTsKk3chqv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+# Gradle-related files
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.properties
+
+# Android Studio project files
+.idea/
+*.iml
+workspace.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/shelf/
+.idea/workspace.xml
+
+# Local configuration file (specific to each developer)
+local.properties
+
+# Android-specific files
+*.apk
+*.ap_
+*.dex
+*.so
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+
+# Logs and crash reports
+*.log
+
+# Cache files
+.cache/
+captures/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Exclude screenshots from drawable folder but allow those at the root
+app/src/main/res/drawable/screenshot*
+
+# Generated files from Kotlin and Java compilation
+/build/
+out/
+
+# Node-related files (if using Node.js for scripts)
+node_modules/
+yarn.lock
+package-lock.json
+
+# IntelliJ and Android Studio generated folders
+/.idea/
+/.idea/*
+!/.idea/vcs.xml
+!.idea/misc.xml
+
+# Exclude test results and lint reports
+/test-results/
+lint/
+
+# Keystore files (for security)
+*.keystore
+*.jks
